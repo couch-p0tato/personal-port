@@ -47,8 +47,8 @@ export const Hero = () => {
       >
         <a
             className="group flex items-center gap-0.5 md:gap-1.5 hover:underline underline-offset-4"
-            href="/moyo-resume.pdf"
-            download="moyo-resume.pdf"
+            href="/moyo-resume-1.pdf"
+            download="moyo-resume-1.pdf"
         >
             Check me out 
             <Download 
